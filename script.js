@@ -17,5 +17,5 @@ async function fetchUser() {
 
 newUserBtn.addEventListener('click', fetchUser);
 
-// Fetch first user on page load
+
 fetchUser();
