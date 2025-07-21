@@ -37,3 +37,17 @@ body {
   margin-bottom: 15px;
 }
 
+button {
+  padding: 10px 20px;
+  background: #dc2430;
+  border: none;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background: #a11a22;
+}
